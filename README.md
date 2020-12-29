@@ -13,4 +13,5 @@ To use the password-generator, you simply start by clicking the 'Generate Passwo
 
 #### Links:
 [Linkedin](https://www.linkedin.com/in/cdfox/)
+
 [GitHub](https://github.com/CFox2019)
