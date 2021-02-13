@@ -12,8 +12,6 @@ To use the password-generator, you simply start by clicking the 'Generate Passwo
 ![password-generator](./Assets/password-generator-screenshot.png)
 
 ### Links:
-[Deployed](https://cfox2019.github.io/password-generator/)
 
 [Linkedin](https://www.linkedin.com/in/cdfox/)
-
 [GitHub](https://github.com/CFox2019)
